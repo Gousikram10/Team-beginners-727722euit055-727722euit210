@@ -1,0 +1,11 @@
+.all{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: blue;
+}
+.a{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    background-color: yellow;
+}

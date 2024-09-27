@@ -1,0 +1,17 @@
+.top{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+}
+.all{
+    background-color: #0c5776;
+}
+.bottom{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+}
